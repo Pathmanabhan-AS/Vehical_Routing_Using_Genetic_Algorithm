@@ -1,4 +1,4 @@
-# Vehicle Routing Problem (VRP)
+[[# Vehicle Routing Problem (VRP)
 
 This repository contains an implementation of the Vehicle Routing Problem (VRP) using a Genetic Algorithm (GA). The VRP is a combinatorial optimization problem where the objective is to find the optimal set of routes for a fleet of vehicles to deliver to a given set of customers, such that the total distance traveled is minimized.
 
@@ -12,7 +12,7 @@ This repository contains an implementation of the Vehicle Routing Problem (VRP) 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vehicle-routing-problem.git
+   git clone https://github.com/Pathmanabhan-AS/Vehical_Routing_Using_Genetic_Algorithm.git
 Navigate to the project directory:
 
 bash
@@ -34,3 +34,4 @@ Project Structure
 Vehicle_Routing_Problem.ipynb: Jupyter Notebook containing the implementation of the VRP and GA.
 requirements.txt: List of Python dependencies.
 README.md: Project documentation file.
+](https://github.com/Pathmanabhan-AS/Vehical_Routing_Using_Genetic_Algorithm.git)](https://github.com/Pathmanabhan-AS/Vehical_Routing_Using_Genetic_Algorithm.git)
